@@ -1,0 +1,5 @@
+尔已阵亡
+按 {KEYBINDING_INTERACTION} 以置<color=yellow>军械操纵机</color>。
+按 {KEYBINDING_INTERACTION} 以拾<color=yellow>军械操纵机</color>。
+此<color=yellow>作坊</color>已连他人之<color=yellow>军械操纵机</color>。
+须凭<color=yellow>军械操纵机</color>以启此<color=yellow>作坊</color>。

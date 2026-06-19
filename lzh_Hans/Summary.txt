@@ -1,0 +1,19 @@
+本回合结束！
+异类获胜
+官军获胜
+乱党获胜
+势均力敌
+异类充斥于内，急难之策仓卒大启。
+群丑已戮，內庭復归于安。
+官军爪牙尽墨。锐士严阵，随时听调。
+内庭大抵克定，然死伤巨万。孰为真王，未可知也。
+亡命隶圉 [summary_d_escaped] 人
+亡命太医 [summary_s_escaped] 人
+震天雷毙贼 [summary_warhead_kills] 人。
+是局未动震天雷。
+此役凡历 [summary_round_minutes] 分 [summary_round_seconds] 秒。
+戮异类 [summary_scp_terminated] 具。
+下局游戏于 [summary_next_round_countdown] 秒后重开。
+异类共戮生灵 [summary_scpfrags] 人。
+红鹳获胜
+余党皆亡。红鹳独完，大获全胜。

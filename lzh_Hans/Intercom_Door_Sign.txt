@@ -1,0 +1,7 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+司 号 之 所
+司 号 之 所
+通 达 全 境
+通 达 全 境
+广 谕 中 枢
+广 谕 中 枢

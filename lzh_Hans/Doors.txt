@@ -1,0 +1,10 @@
+<color=green>既开</color>
+<color=#07A2FF>既闭</color>
+<color=orange>移行中</color>
+<color=red>重锁</color>
+<color=red>毁损</color>
+<color=red>拒纳</color>
+<color=green>准入</color>
+<color=#07A2FF>凭符节钥匙方可</color>
+<color=orange>请行</color>
+<color=orange>正值掩闭</color>

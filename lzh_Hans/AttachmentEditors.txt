@@ -1,0 +1,18 @@
+自裁兵械
+规制 #[index]
+存 贮
+尽除配饰
+初设之制
+法 度
+机台 - <color=#c00>绝命中断</color>
+<color=#ccc>第二分站 兵械整饬之所</color> - 蛰伏待命\n<size=39>轻触其屏方可点纳， <color=#ccc>非授符印者莫入。</color></size>
+客官安好！
+机台正值启动
+机台 - <color=#0c0>克臻完备</color>
+<size=52><color=#ccc>第二分站 兵械整饬之所</color> - 兹可升用</size>\n<size=42><color=#ccc>请执锐在手，以资整饰。</color></size>
+断其枢电
+机台正值掩闭
+昭示总括
+掩闭总括
+[Attachment] 自裁
+按键 [Key] 变置配饰

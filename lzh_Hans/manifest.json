@@ -1,0 +1,21 @@
+{
+	"Name": "文言文（华夏）",
+	"Authors": [
+		"Gemini",
+		"DApples"
+	],
+	"InterfaceLocales": [
+		"zh-CN",
+		"zh-Hans",
+		"zh"
+	],
+	"SystemLocales": [
+		"zh-CN",
+		"zh-SG",
+		"zh-Hans",
+		"zh"
+	],
+	"ForcedFontOrder": [
+		"NotoSansCJKsc-RegularDynamic"
+	]
+}

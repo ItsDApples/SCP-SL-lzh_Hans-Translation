@@ -1,0 +1,9 @@
+ (%time% ⏳)
+ (+%influence% 👊)
+<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
+克成之功业自当昭示于此！
+<color=%achieverColor%>%achieverName%</color> 诛杀了 <color=%victimColor%>%victimName%</color>
+<color=%achieverColor%>%achieverName%</color> 对 <color=%victimColor%>%victimName%</color> 施加了有效伤害
+<color=%achieverColor%>%achieverName%</color> 成功逃离了禁所
+<color=%achieverColor%>%achieverName%</color> 成功启运了一台 <b>发电机</b>
+<color=%achieverColor%>%achieverName%</color> 执拿了 <color=red>%itemName%</color>

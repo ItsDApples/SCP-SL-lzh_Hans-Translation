@@ -1,0 +1,6 @@
+<color=red>拒纳凭准</color>
+已臻执拿 <color=yellow>[type] 硝药弹丸</color> 之上限(<color=yellow> 至多 [max_type_count] 发</color>)
+<b>赫然</b> 已臻执拿 <color=yellow>[type] 硝药弹丸</color> 之上限(<color=yellow> 共[max_type_count] 发</color>)
+尔至多可执拿 <color=yellow>[max_type_count] 件该器物</color>( <color=yellow>[type]</color> )
+<b>已然合围</b> <color=yellow>[type]</color> 之执拿上限 ( <color=yellow>至多[max_type_count] 个</color>)
+尔至多可携行 <color=yellow>[max_item_count] 件</color> 器物
