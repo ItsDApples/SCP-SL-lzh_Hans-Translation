@@ -11,12 +11,12 @@
 <size=八十>斷連</size>\n伺服配置無效。
 <size=八十>斷連</size>\n所供IP位址無效或不可解析。
 <size=八十>斷連</size>\n發生未知之誤！
-<size=八十>請稍候</size>\n<size=三十五>正建立連線...</size>
-<size=八十>回合重置</size>\n<size=三十五>回合正重置中...</size>
-<size=八十>請稍候</size>\n<size=三十五>正載入教學...</size>
+<size=八十>請稍候</size>\n<size=35>正建立連線...</size>
+<size=八十>回合重置</size>\n<size=35>回合正重置中...</size>
+<size=八十>請稍候</size>\n<size=35>正載入教學...</size>
 <size=八十>版本不侔</size>\n爾之遊戲版本與當前伺服版本不同。\n（爾版 - [your]；伺服版 - [server]）
-<size=八十>已連</size>\n<size=三十五>正載入地圖...</size>
-<size=三十五>正載入設施...</size>
+<size=八十>已連</size>\n<size=35>正載入地圖...</size>
+<size=35>正載入設施...</size>
 <size=八十>斷連</size>\n伺服發生未知之誤。
 <size=八十>斷連</size>\n伺服無法自中樞伺服取得身分驗證。
 <size=八十>斷連</size>\n爾不在伺服之白名單內。
