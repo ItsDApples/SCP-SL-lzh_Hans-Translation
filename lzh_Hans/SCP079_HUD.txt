@@ -1,0 +1,91 @@
+<color=#1AD9FF>变焦 [amount]x</color>
+<color=#1AD9FF>访问等阶 [tier]</color>
+<color=#1AD9FF>阅历 [current] / [next]</color>
+<color=#FF3B3B>已达最高等阶</color>
+<color=#FF3B3B>绝无监视法眼</color>
+<color=#1AD9FF>切换至: [camera] ([cost])</color>
+<color=#FF3B3B>备用电力匮乏</color>
+<color=#FF9F1C>预计时刻: [time] 秒</color>
+<color=#FF3B3B>需更高之等阶</color>
+<color=#FF3B3B>不可驭使之法眼</color>
+<color=#FF3B3B>此门拒绝通行</color>
+<color=#3BFF6B>开启门 ([cost])</color>
+<color=#1AD9FF>关闭门 ([cost])</color>
+<color=#FF3B3B>锁定门 ([cost])</color>
+<color=#3BFF6B>洞开门</color>
+<color=#FF9F1C>此门正处冷却时刻</color>
+<color=#1AD9FF>储备电力</color>
+<color=#FF3B3B>尔正受袭！</color>
+<color=#3BFF6B>洞开门</color>
+<color=#1AD9FF>开启设施舆图</color>
+<color=#1AD9FF>阖</color>
+<color=#AC9CFF>轻收容疆域</color>
+<color=#AC9CFF>重收容疆域</color>
+<color=#AC9CFF>入口疆域</color>
+<color=#AC9CFF>地表疆域</color>
+<color=#FFCC00>断电 ([cost])</color>
+<color=#FF3B3B>此内室无法断电</color>
+<color=#FF9F1C>已达齐行断电之数额上限</color>
+<color=#FF9F1C>内室正处断电冷却时刻</color>
+<color=#FF9F1C>启运连升机 ([cost])</color>
+<color=#FF3B3B>禁闭 ([cost])</color>
+<color=#FF9F1C>禁闭正处冷却时刻</color>
+<color=#FF3B3B>无门可供禁闭</color>
+<color=#1AD9FF>标记乾坤 ([cost])</color>
+<color=#FF9F1C>已达标记频率限制</color>
+<color=#FF3B3B>法眼切换败绩</color>
+<color=#FF3B3B>流光信号丢失</color>
+<color=#FFFFFF>正在重构法网 (预计: [time]秒)</color>
+<color=#FFFFFF>激活太乙雷网 ([cost])</color>
+<color=#FFFFFF>神雷网激活正处冷却时刻</color>
+<color=#3BFF6B>$访问等阶 [tier]$ - 已然洞开</color>
+<color=#FFFFFF>$备用电力$ 上限递增至 $[limit]$.</color>
+<color=#FFFFFF>$断电$ 今可驭使 - 击 $[key]$ 键以熄灭内室之流光。</color>
+<color=#FFFFFF>$断电$ 御使上限递增至 $[number]$ 间内室。</color>
+<color=#FFFFFF>$禁闭$ 今可驭使 - 击 $[key]$ 键可短暂锁闭一内室之凡门。</color>
+<color=#FFFFFF>+[amount] 阅历 - 掌事者令</color>
+<color=#FFFFFF>+[amount] 阅历 - 襄助戮杀 [role]</color>
+<color=#FFFFFF>+[amount] 阅历 - 亲手戮杀 [role]</color>
+<color=#FFFFFF>+[amount] 阅历 - 目睹同袍戮杀 [role]</color>
+<color=#FFFFFF>+[amount] 阅历 - 襄助同袍追袭</color>
+<color=#FFFFFF>+[amount] 阅历 - 庇护同袍</color>
+<color=#FFFFFF>+[amount] 阅历 - 阻碍驭使Micro H.I.D.</color>
+<color=#FF3B3B>锁门之能已然彰显</color>
+<color=#FF9F1C>全疆域断电 ([cost])</color>
+<color=#FFFFFF>$全疆域断电$ 今可驭使 - 其徽记显现于$设施舆图$疆域之侧</color>
+<color=#FF9F1C>全疆域断电正处冷却时刻</color>
+<color=#FF9F1C>断电之功已在此彰显</color>
+<color=#FF3B3B>此疆域莫能断电</color>
+<color=#1AD9FF>〔〕・当前存活总数</color>
+<color=#FFA900><b>〔〕・需消灭目标数</b></color>
+<color=#FF3B3B>〔〕・异物项目数</color>
+<color=#FFFF7C>〔〕・平民单位数</color>
+<color=#556278>〔〕・武装单位数</color>
+<color=#8080FF>使用扬声器</color>
+<color=#FF3B3B>⛔ 电梯拒绝通行 ⛔</color>
+<color=#FFFFFF>异质零七九无直接搏杀或移形之能，唯借遍布各室之法眼以观世间万象。一切可用之术法皆列于屏幕右上角。</color>
+<color=#FFFFFF><b>〔〕近乎无敌</b>:重收容疆域内有三座太初核弹。若三座皆已启动，尔将被重新收容于密室之中。核弹有倒计时序列，可于其上按下「取消」键以中断之。</color>
+<color=#FFFFFF><b>〔〕无限通权</b>:尔可操纵设施内诸多系统以襄助其余异物。屏幕右上角显示当前可用之术法。施术消耗备用电力(AP)，随时间自行恢复。</color>
+<color=#FFFFFF><b>〔〕深度学习</b>:襄助戮杀或为同袍行有益之事，可获阅历以晋升至更高访问等阶。每一新阶赐予更多备用电力，并解锁新术法。</color>
+<color=#FFFFFF><b>〔〕醒而不寐</b>:无处不在又无处所在，赋予尔独特视角。尔可标记方位、人物与要紧之物，以襄助屠戮。亦可访问设施监视舆图。</color>
+$〔〕 <color=#8080FF>入侵扫描器</color>$ 今可驭使 — 在$<color=#8080FF>设施舆图</color>$中选定阵营/区域后将定期扫描剩余幸存者。
+<size=175%><color=#FF3B3B>备用电力恢复已停 ⚠</color></size>
+<size=175%><color=#FF3B3B>备用电力恢复已减([precentage]) ⚠</color></size>
+<color=#FFA500><size=175%>🔐锁门之能已然彰显 </size></color>
+<size=125%><color=#8080FF>扬声器正在使用 🔊</color></size>
+<color=#FFA500><size=175%>🔐封锁正在进行中 — (解除倒计时:7s) </size></color>
+<color=#FFA500>入侵扫描器</color>
+<color=#1AD9FF>返回至地图界面</color>
+<color=#FFA500>入侵扫描器 - [cnt] 个疆域</color>
+<color=#FFFF00>已选定区域: [cnt]</color>
+<color=#F00F00>选择需要扫描的疆域</color>
+「<color=#FF3B3B></color>」 - <color=#FF3B3B>扫描失败</color> - 未检测到静止目标
+🔄 将在 <color=#FF9F1C>[time]</color> 秒后重试... 🔄
+「<color=#3BFF6B></color>」 - <color=#3BFF6B>扫描成功 🆗</color> - $<b>🆔 [role] </b>$ 检测到 - <color=#FF3B3B><b>[camera_name]</b></color> - <b>[zone]</b>
+<color=#1AD9FF>🔍 扫描倒计时 - [time] 秒 🔍</color>
+<color=#1AD9FF>🔍 正在扫描... 🔍</color>
+<size=130%><color=#FF3B3B><b>系统：离线</b></color></size>
+<color=#1AD9FF>选择要扫描的阵营</color>
+<mspace=0.5em><size=70%>                                              <br>  $$$$$$\           $$$$$$\          $$$$$$$$   <br> $$  __$$\         $$  __$$\         $$  __$$\ <br> $$ /  \__|        $$ /  \__|        $$ |  $$ |<br> \$$$$$$\          $$ |              $$$$$$$  |<br>  \____$$\         $$ |              $$  ____/ <br> $$\   $$ |        $$ |  $$\         $$ |      <br> \$$$$$$  |        \$$$$$$  |        $$ |      <br>  \______/          \______/         \__|      <br>                                               <br> ============  ZERO  SEVEN  NINE  =============<br>                                               <br>  $$$$$$\          $$$$$$$$\          $$$$$$\  <br> $$$ __$$\         \____$$  |        $$  __$$\ <br> $$$$\ $$ |            $$  /         $$ /  $$ |<br> $$\$$\$$ |           $$  /          \$$$$$$$ |<br> $$ \$$$$ |          $$  /            \____$$ |<br> $$ |\$$$ |         $$  /            $$\   $$ |<br> \$$$$$$  /        $$  /             \$$$$$$  |<br>  \______/         \__/               \______/ </size>
+<color=#FF9F1C>⚠</color><color=#FF3B3B>至少得筛选一个阵营才能继续运行！</color><color=#FF9F1C>⚠</color>
+$<color=#FF3B3B></color> <color=#8080FF>锁门</color>$ 今可驭使 - 按 $<color=#8080FF>定心鼠标右键</color>$ 可暂时锁闭一内室之门。

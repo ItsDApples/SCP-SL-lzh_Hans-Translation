@@ -1,0 +1,4 @@
+<size=2500><color=#E8413A>[<b> -  - </b>]</color></size><size=1000><b>阖</b></size>
+<size=2500><color=#E8413A>[<b> -  - </b>]</color></size><size=1000><b>请稍候</b></size>
+<size=2500><color=#6BBF59>[<b> -  - </b>]</color></size><size=1000><b>既备</b></size>
+<size=2500><color=#FFFFFF>[<b> -  - </b>]</color></size><size=1000><b>///// 轰天引线已燃，莫之能御 /////</b></size>

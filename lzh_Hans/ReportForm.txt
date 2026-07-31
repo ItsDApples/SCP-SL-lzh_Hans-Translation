@@ -1,0 +1,9 @@
+<color=#FFFFFF>告发玩者</color>
+<color=#FFFFFF><size=25>玩者名讳:</color>
+<color=#FFFFFF>玩者当场序数:</color>
+<color=#FFFFFF>详述告发缘由:</size></color>
+<color=#FFFFFF>罢</color>
+<color=#FFFFFF>违此伺候器之规</color>
+<color=#FFFFFF>欺诈或蓄意毁坏伺候器</color>
+<color=#FFFFFF>正在呈递弹章</color>
+<color=#FFFFFF>请稍候……</color>

@@ -1,0 +1,19 @@
+<color=#FFFFFF>本回合结束！</color>
+<size=85%><color=#E8413A>异物大捷</color></size>
+<size=85%><color=#5B9BD5>卫狐联军·大捷</color></size>
+<size=85%><color=#008F1C>乱党得势</color></size>
+<size=85%><color=#FFFFFF>势均力敌</color></size>
+<color=#E8413A>异物充斥于内，急难之策仓卒大启。</color>
+<color=#FFFFFF>群丑已戮，內庭復归于安。</color>
+<color=#5B9BD5>卫狐联军尽歼敌寇，锐士严阵听调。</color>
+<color=#FFFFFF>内庭大抵克定，然死伤巨万。胜负未分。</color>
+<color=#E08B4A>亡命丁等囚徒 [summary_d_escaped] 人</color>
+<color=#D9B44A>亡命博学士 [summary_s_escaped] 人</color>
+<color=#FFFFFF>震天雷毙贼 [summary_warhead_kills] 人。</color>
+<color=#FFFFFF>是局未动震天雷。</color>
+<color=#FFFFFF>此役凡历 [summary_round_minutes] 分 [summary_round_seconds] 秒。</color>
+<color=#E8413A>戮异物 [summary_scp_terminated] 具。</color>
+<color=#FFFFFF>下局游戏于 [summary_next_round_countdown] 秒后重开。</color>
+<color=#E8413A>异物共戮生灵 [summary_scpfrags] 人。</color>
+<size=85%><color=#FF59CA>红鹳独全</color></size>
+<color=#FFFFFF>余党皆亡。红鹳独完，大获全胜。</color>

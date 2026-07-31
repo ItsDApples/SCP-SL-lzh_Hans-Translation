@@ -1,0 +1,10 @@
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#00FF00><nobr>┃◇┃</nobr></color></size></align><br><align=center><size=30px><color=#00FF00><nobr>既 开</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#07A2FF><nobr>┃◈┃</nobr></color></size></align><br><align=center><size=30px><color=#07A2FF><nobr>既 闭</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#FFA500><nobr>┃⇆┃</nobr></color></size></align><br><align=center><size=30px><color=#FFA500><nobr>移 行 中</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#FF0000><nobr>┃┃</nobr></color></size></align><br><align=center><size=30px><color=#FF0000><nobr>重 锁</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#FF0000><nobr>┃┃</nobr></color></size></align><br><align=center><size=30px><color=#FF0000><nobr>毁 损</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#FF0000><nobr>┃┃</nobr></color></size></align><br><align=center><size=30px><color=#FF0000><nobr>拒 纳</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#00FF00><nobr>┃┃</nobr></color></size></align><br><align=center><size=30px><color=#00FF00><nobr>准 入</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#07A2FF><nobr>┃💳┃</nobr></color></size></align><br><align=center><size=30px><color=#07A2FF><nobr>持 凭 信 方 可</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#FFA500><nobr>┃⇵┃</nobr></color></size></align><br><align=center><size=30px><color=#FFA500><nobr>请 行</nobr></color></size></align>
+<line-height=95px><size=0em><br></size></line-height><align=center><size=45px><color=#FFA500><nobr>┃┃</nobr></color></size></align><br><align=center><size=30px><color=#FFA500><nobr>正 值 掩 闭</nobr></color></size></align>

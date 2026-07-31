@@ -1,0 +1,7 @@
+<color=#E8413A>〔〕・异物项目</color>
+<color=#5B9BD5>〔〕・禁所卫士·九尾之狐</color>
+<color=#6BBF59>〔〕・混沌乱党</color>
+<color=#D9B44A>〔〕・博学士</color>
+<color=#E08B4A>〔〕・丁等囚徒</color>
+<color=#FFFFFF>〔〕・亡者</color>
+<color=#FFFFFF>〔〕・无籍之徒</color>

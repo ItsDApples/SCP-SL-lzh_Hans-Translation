@@ -1,0 +1,30 @@
+<color=red>异物-壹柒叁</color>
+<color=#ff8000>丁等囚徒</color>
+游魂客
+<color=red>异物-壹零陆</color>
+<color=#00AFFF>九尾之狐 收容大工</color>
+<color=red>异物-零肆玖</color>
+<color=#ffff7c>博学士</color>
+<color=#8080FF>异物-零柒玖</color>
+<color=#559100>混沌乱党 乡勇</color>
+<color=red>异物-零玖陆</color>
+<color=#8d1414>异物-零肆玖-贰型</color>
+<color=#0096ff>九尾之狐 校尉</color>
+<color=#003dca>九尾之狐 统领</color>
+<color=#70c3ff>九尾之狐 执戈卒</color>
+修业传习角色
+<color=#556278>禁所卫士</color>
+<color=red>异物-玖叁玖</color>
+-
+<color=#008F1C>混沌乱党 铳手</color>
+<color=#006826>混沌乱党 劫掠官</color>
+<color=#0D7D35>混沌乱党 镇压官</color>
+巡天模式
+掌局模式
+<color=red>异物-叁壹壹肆</color>
+折锚流人
+<color=#FF59CA>异物-壹伍零柒</color>
+<color=#FF0099>异物-壹伍零柒-甲型</color>
+<color=#ff0000>异物-壹伍零柒-零肆玖型</color>
+<color=#70c3ff>九尾之狐 朱鹭</color>
+<color=#008F1C>混沌乱党 朱鹭</color>

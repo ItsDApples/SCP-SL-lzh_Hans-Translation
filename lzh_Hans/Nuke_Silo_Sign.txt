@@ -1,0 +1,6 @@
+<color=#FFFFFF>ALPHA</color>
+<color=#FFFFFF>ALPHA</color>
+<color=#FFFFFF>核子神锋</color>
+<color=#FFFFFF>核子神锋</color>
+<color=#FFFFFF>发射井</color>
+<color=#FFFFFF>发射井</color>

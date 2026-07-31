@@ -1,0 +1,10 @@
+<color=#FFFFFF> 搭桥中</color>
+<color=#FFFFFF> 正值搭桥牵线...</color>
+<color=#FFFFFF> 重演中</color>
+<color=#FFFFFF> 局戏正值重演...</color>
+<color=#FFFFFF> 搭桥中</color>
+<color=#FFFFFF> 正值开图置景...</color>
+<color=#FFFFFF> 搭桥中</color>
+<color=#FFFFFF> 正值校核分站印信...</color>
+<color=#FFFFFF> 断连中</color>
+<color=#FFFFFF> 正值止息构筑禁所...</color>

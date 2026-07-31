@@ -1,0 +1,18 @@
+<color=#FFFFFF>自裁兵械</color>
+<color=#FFFFFF>规制 #[index]</color>
+<color=#FFFFFF>存 贮</color>
+<color=#FFFFFF>尽除配饰</color>
+<color=#FFFFFF>初设之制</color>
+<color=#FFFFFF>法 度</color>
+机台 - <color=#c00>绝命中断</color>
+<color=#ccc>💳 第二分站 兵械整饬之所</color> - 蛰伏待命\n<size=39>轻触其屏方可点纳， <color=#ccc>非授符印者莫入。</color></size>
+<color=#FFFFFF>客官安好！</color>
+<color=#FFFFFF>机台正值启动</color>
+机台 - <color=#0c0>克臻完备</color>
+<size=52><color=#ccc>第二分站 兵械整饬之所</color> - 兹可升用</size>\n<size=42><color=#ccc>请执锐在手，以资整饰。</color></size>
+<color=#FFFFFF>断其枢电</color>
+<color=#FFFFFF>机台正值掩闭</color>
+<color=#FFFFFF>昭示总括</color>
+<color=#FFFFFF>掩闭总括</color>
+<color=#FFFFFF>[Attachment] 自裁</color>
+<color=#FFFFFF>按键 [Key] 变置配饰</color>

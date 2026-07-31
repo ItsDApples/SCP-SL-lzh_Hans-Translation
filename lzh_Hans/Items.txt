@@ -1,0 +1,59 @@
+0~<b><color=#E0C04A>洒扫役之凭信</color></b>
+1~<b><color=#E0C04A>格物士之凭信</color></b>
+2~<b><color=#E0C04A>格物提调之凭信</color></b>
+3~<b><color=#E0C04A>分域总监之凭信</color></b>
+4~<b><color=#E0C04A>禁所卫士之凭信</color></b>
+5~<b><color=#E0C04A>九尾之狐骁骑之凭信</color></b>
+6~<b><color=#E0C04A>锢禁匠师之凭信</color></b>
+7~<b><color=#E0C04A>九尾之狐密探之凭信</color></b>
+8~<b><color=#E0C04A>九尾之狐统领之凭信</color></b>
+9~<b><color=#E0C04A>总署统监之凭信</color></b>
+10~<b><color=#6BBF59>混沌乱党之破枢机</color></b>
+11~<b><color=#E0C04A>最高神明级之凭信</color></b>
+12~<b><color=#FFFFFF>传声铎</color></b>~<color=#999999FF><size=90%><b>「 得御此器以行万里传音。其音之及，造请随宜。 」</b></size></color>\n\n<size=70%><color=#FFFFCC>[ 近程 | <b>108</b> 米 ]   [ 远程 | <b>1080</b> 米 ]</color>\n<color=#FFFFCC>[ 中程 | <b>180</b> 米 ]   [ 超程 | <b>7200</b> 米 ]</color></size>
+13~<b><color=#C0C6CD>神机短铳</color></b>
+14~<b><color=#4FC2A8>回春囊</color></b>~<color=#999999FF><size=90%><b>「 以医尔创。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 运使之时 - <b>5</b> 息 ]</color>\n<color=red>[ <b>✚</b> 回元气血 - <b>65</b> 点 ]</color>\n<color=#FFAB00>[ 涤除流血灼创之累 ]</color></size>
+15~<b><color=#E07B3C>执照火引</color></b>~<color=#999999FF><size=100%><b>「 太初有光！ 」</b></size></color>
+16~<b><color=#E8413A>神雷驭闪放电震器</color></b>~<color=#999999FF><size=100%><b>「 专为囚锢异物而设之重型轰雷装置。 」</b></size></color>
+17~<b><color=#E8413A>异质伍零零</color></b>~<color=#999999FF><size=90%><b>「 瞬息间沉疴悉去，万类创痍皆愈。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 运使之时 - <b>1</b> 息 ]</color>\n<color=red>[ <b>✚</b> 回元气血 - <b>100</b> 点 ]</color>\n<color=#FFAB00>[ 涤除诸般累状 ]</color>\n<color=#FFAB00>[ 别称 - 万能神药 ]</color></size>
+18~<b><color=#E8413A>异质贰零柒</color></b>~<color=#999999FF><size=85%><b>「 服之则步履如飞，然寸寸销蚀尔躯。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 运使之时 - <b>3</b> 息 ]</color>\n<color=red>[ 💔 奔走之际渐销气血 ]</color>\n<color=#FFAB00>[ ⚠ 切莫与 异质壹捌伍叁、太极倒转醍醐 同施 ]</color>\n<color=#FFAB00>[ 别称 - 一箱醍醐 ]</color></size>
+20~<b><color=#5B9BD5>九尾之狐御敌长铳</color></b>
+21~<b><color=#C0C6CD>连发迅击铳</color></b>
+23~<b><color=#C0C6CD>飞掠疾射铳</color></b>
+24~<b><color=#C0C6CD>神机沉雷御百兵铳</color></b>
+25~<b><color=#E07B3C>震天裂地雷</color></b>~<color=#999999FF><size=100%><b>「 烈火烈爆之震雷，伤人甚巨。掷之，须臾自爆。 」</b></size></color>
+26~<b><color=#E07B3C>蔽目摄魂雷</color></b>~<color=#999999FF><size=100%><b>「 眩敌目而乱其心。掷之，须臾自爆。 」</b></size></color>
+30~<b><color=#C0C6CD>神机锐意短铳</color></b>
+31~<b><color=#E8413A>异质零壹捌</color></b>~<color=#999999FF><size=100%><b>「 具莫大势能之跃丸。疾旋腾跃之际，触之立毙。 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 飞旋丸 ]</color></size>
+32~<b><color=#E8413A>异质贰陆捌</color></b>~<color=#999999FF><size=100%><b>「 顶戴此冠，瞬息间神形俱匿，然涉事交接则法术自破。 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 遗忘冠 ]</color></size>
+33~<b><color=#4FC2A8>神农壮骨膏</color></b>~<color=#999999FF><size=90%><b>「 暂长体力，且御诸般创痛。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 运使之时 - <b>2</b> 息 ]</color>\n<color=#51CC34>[ ⛨ 赐汝御盾 - <b>40</b> 点 ]</color>\n<color=#FF9900>[ 🏃 无尽之气 - <b>8</b> 息 ]</color></size>
+34~<b><color=#FFFFFF>定痛散</color></b>~<color=#999999FF><size=90%><b>「 绵绵不绝以养血生肌。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 运使之时 - <b>1</b> 息 ]</color>\n<color=red>[ <b>✚</b> 回元气血 - <b>50</b> 点 ]</color>\n<color=#FFAB00>[ 徐徐以养血 ]</color></size>
+35~<b><color=#FFFFFF>泉货</color></b>~<color=#999999FF><size=100%><b>「 尔亦不知何故携此物同行…… 」</b></size></color>
+36~<b><color=#FFFFFF>轻甲</color></b>
+37~<b><color=#FFFFFF>战阵锐甲</color></b>
+38~<b><color=#FFFFFF>重御明甲</color></b>
+39~<b><color=#C0C6CD>旋转六联短铳</color></b>
+40~<b><color=#C0C6CD>强击长铳</color></b>
+41~<b><color=#C0C6CD>连珠散弹铳</color></b>
+42~<b><color=#E8413A>遗香饴囊</color></b>~<color=#999999FF><size=50%><b>「 满盈诸般饴糖之囊。 」</b></size></color>
+43~<b><color=#E8413A>异质贰壹柒陆</color></b>~<color=#999999FF><size=90%><b>「 尔独有之幽荧灯！切记：此物易碎。破裂则扰诸般泰西机巧。 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 鬼灯 ]</color></size>
+44~<b><color=#E8413A>异质贰肆肆甲</color></b>~<color=#999999FF><size=90%><b>「 稽古之玉壶，抚之触手冰凝。置地则生漫天冷雾之气。 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 凝冰壶 ]</color></size>
+45~<b><color=#E8413A>异质贰肆肆乙</color></b>~<color=#999999FF><size=90%><b>「 稽古之玉壶，抚之触手冰凝。置地则生漫天冷雾之气。 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 凝冰壶 ]</color></size>
+46~<b><color=#E8413A>异质壹捌伍叁</color></b>~<color=#999999FF><size=100%><b>「 临难之际，使尔身轻如燕，更助器械之用。 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 百炼膏 ]</color></size>
+47~<b><color=#C0C6CD>参天分子裂解神兵</color></b>~能发太乙分形造化流光之异器。
+48~<b><color=#C0C6CD>百盛连发短铳</color></b>
+49~<b><color=#E8413A>异质壹伍柒陆</color></b>~<color=#999999FF><size=100%><b>「 纵尔暂与九泉死友通语。历有时日方可再招。 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 墨翟拘魂传声器 ]</color></size>
+50~<b><color=#FFFFFF>执囚之鸟</color></b>~<color=#999999FF><size=100%><b>「 诡谲不稳之妖挺，可横击逆贼，亦可蓄力行劈山之威。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ ⚡ 基伤 - <b>50</b> ]</color>\n<color=#FFCCCC>[ 💪 聚力之伤 - <b>200</b> ]</color>\n<color=#CCFFFF>[ 💡 聚力一击可蔽敌目 ]</color></size>
+51~<b><color=#FFFFFF>太极倒转醍醐</color></b>~<color=#999999FF><size=85%><b>「 九壹肆炉之造化。大益于血气，大损于步履。危难之际，可续残生。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 运使之时 - <b>3</b> 息 ]</color>\n<color=red>[ ❤️ 徐徐养血｜至多赐 <b>75</b> 点外血 ]</color>\n<color=#FFAB00>[ ⚠ 切莫与 异质壹捌伍叁、异质贰零柒 同施 ]</color>\n<color=#FFAB00>[ 别称 - 清流箱 ]</color></size>
+52~<b><color=#C0C6CD>烈火震威轻机铳</color></b>
+53~<b><color=#C0C6CD>摧坚长铳</color></b>
+54~<b><color=#FFFFFF>行灯</color></b>~<color=#999999FF><size=100%><b>「 古制煤油提灯，上铭公输班之名。 」</b></size></color>
+55~<b><color=#E8413A>异质壹载肆肆</color></b>~<color=#999999FF><size=90%><b>「 神造之透视目镜，戴之可隔墙照见群雄之踪。既戴其冠，绝不可摘！ 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 运使之时 - <b>5</b> 息 ]</color>\n<color=#66CC99>[ 👓 令众魂穿镜而现 ]</color>\n<color=#FFAB00>[ ⚠ 既戴勿摘 ]</color>\n<color=#FFAB00>[ 别称 - 吸睛神镜 ]</color></size>
+56~<b><color=#FFFFFF>琼芳丸</color></b>
+57~<b><color=#FFFFFF>乌金块</color></b>
+58~<b><color=#FFFFFF>乌金块？</color></b>
+59~<b><color=#FFFFFF>玄音带机？</color></b>~<color=#999999FF><size=100%><b>「 内置无名玄音带。万祈莫纵其声。万祈。 」</b></size></color>
+61~<b><color=#E0C04A>大关通行凭信</color></b>~<color=#999999FF><size=100%><b>「 用为启闭重关要道之凭信。 」</b></size></color>
+62~<b><color=#E8413A>异质壹贰柒</color></b>
+68~<b><color=#E8413A>异质壹伍零玖</color></b>~<color=#999999FF><size=90%><b>「 能致中创之白刃。以此刃戮一人，则可返魂一袍泽。 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ ⚡ 基伤 - <b>50</b> ]</color>\n<color=#CCFFFF>[ 👰 戮人 / 火禽之时 ]</color>\n<color=#FFAB00>[ 别称 - 返魂白刃 ]</color></size>
+69~<b><color=#E8413A>异质零贰壹戏</color></b>~<color=#999999FF><size=90%><b>「 黑煞危象之气自瓶中溢散。尔觉此物举世难囚。尔敢饮此鸩乎？ 」</b></size></color>\n\n<size=70%><color=#FFAB00>[ 别称 - 大凶 ]</color></size>

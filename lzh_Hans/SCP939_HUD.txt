@@ -1,0 +1,47 @@
+<color=#FFFFFF>击 [key_attack] 或 [key_jump] 键以飞扑而出。</color>
+<color=#FFFFFF>🔍 试听音律（唯尔一身可闻）</color>
+-
+<color=#FFFFFF>❌ 泯灭音律（长按）</color>
+<color=#FFFFFF>🔊 昭告音律（万姓皆可听闻）</color>
+<color=#FFFFFF>异物-玖叁玖已戮杀尔并攫取尔之音律！</color>
+<color=#FFFFFF>若尔不愿其盗用尔之音声，可废止此机。</color>
+<color=#FFFFFF>铭记我之抉择</color>
+<color=#FFFFFF>泯灭语聊</color>
+<color=#FFFFFF>听凭使用</color>
+<color=#FFFFFF>探寻详情</color>
+<color=#FFFFFF>异物-玖叁玖具一奇能，可将尔语聊寒喧之末尾数秒暂且录下。此录音可由异物-玖叁玖放音，用以诱骗标靶。\n若尔抽身离去伺候器、异物-玖叁玖身死，或局终之时，此等录音皆当尽数荡除。废此机则将尔现有之语聊录痕悉数泯灭。</color>
+<color=#FF9F1C>⚠ 此地无法部署毒瘴。</color>
+<color=#FF9F1C>⚠ 未达释放「遗忘毒瘴」之最小广度。长按部署键以行释放。</color>
+<color=#FFFFFF>与诸异物同袍协力。尔双目几近失明，唯可窥见咫尺之人类，然可循声灵之提示圈追踪其踪迹。运尔之能以行伏击、误导并追索标靶。</color>
+<color=#FFFFFF> 爪击：击 [key] 键向近旁人类挥动利爪，致中度创伤。此伤可为坚甲所御。</color>
+<color=#FFFFFF> 专注：长按 [key] 键以入伏击之态。伏击之时移步维艰，然可击鼠标左键或空格向前猛扑。猛扑人类将致巨量创伤，常可一击必杀。</color>
+<color=#FFFFFF> 遗忘毒瘴：长按 [key] 键以部署一片无形之遗忘毒瘴。入此瘴之凡人皆莫能见尔，直待尔暴起袭之。</color>
+<color=#FFFFFF> 千喉：尔所戮杀之人类，有几率赠尔其临终之语，使尔可盗取其声以欺瞒他人。此外，异物-玖叁玖亦可摹拟某些基本之声，譬如令其足音酷似凡人。</color>
+<color=#FFFFFF> 超灵敏：异物-玖叁玖能感知周遭热源，以一小圈平常视野显之。然圈外唯可凭声以追踪近旁之猎物。声愈响，则可闻愈远。其视野之广狭，受尔体力所制。</color>
+-
+<color=#FF3B3B>🌀 置摹拟之点 🌀</color>
+<color=#FFFFFF>覆写摹拟声源之方位</color>
+<color=#FF3B3B>❌ 去摹拟之点 ❌</color>
+<color=#FFFFFF>令诸声皆发自尔当前所处</color>
+<color=#FF3B3B>🌀 摹拟之点已设 🌀</color>
+<color=#FF9F1C>⚠ 摹拟之点已除 ⚠</color>
+<color=#FF9F1C>⚠ 摹拟之点超出范围 ⚠</color>
+<color=#FFFFFF>盗得之声 💀</color>
+-
+<color=#FFFFFF>环境摹拟 🔦</color>
+-
+<color=#FFFFFF>冷却：[time]秒</color>
+-
+<color=#FFFFFF>冒充 📋</color>
+<color=#FFFFFF>射击 🔫</color>
+<color=#FFFFFF>杂项 💉</color>
+-
+-
+<color=#FFFFFF>阵营</color>
+<color=#FFFFFF>快捷键 [key]</color>
+<color=#FFFFFF>🔊 放所选之声（万姓皆可听闻）</color>
+<color=#FFFFFF>止其放音</color>
+<color=#FFFFFF>拖拽以裁录音</color>
+<color=#FFFFFF>切换喜爱——录音将系于快捷键</color>
+<color=#FFFFFF>拖拽以重排录音</color>
+<color=#FF3B3B>⚠ 尔已盗得标靶之声！🔊</color>

@@ -1,0 +1,10 @@
+<color=#FFFFFF>无</color>
+<color=#E0C04A>💳 凭信</color>
+<color=#4FC2A8>✚ 仙药医理</color>
+<color=#FFFFFF>飞星对讲</color>
+<color=#C0C6CD> 兵械火铳</color>
+<color=#E07B3C>💣 投掷雷火</color>
+<color=#E8413A> 异物项目</color>
+<color=#C0C6CD> 非常兵刃</color>
+<color=#FFFFFF>硝药弹丸</color>
+<color=#FFFFFF>🛡 玄铁甲胄</color>

@@ -1,0 +1,21 @@
+<color=#FFFFFF>击 {0} 开启语聊谱系选择器</color>
+<color=#FFFFFF>语聊谱系选择器</color>
+<color=#FFFFFF>咫尺之音</color>
+<color=#FFFFFF>对讲机</color>
+<color=#FFFFFF>异物密语</color>
+<color=#FFFFFF>终局帷幕</color>
+<color=#FFFFFF>广播室</color>
+<color=#FFFFFF>拟声</color>
+<color=#FFFFFF>异物-1576</color>
+<color=#FFFFFF><i>方舆之音</i></color>
+<color=#FFFFFF><i>执掌咫尺空间之音。若废之，则万人之语皆可闻，不复受距离或对讲机之羁绊。</i></color>
+<color=#FFFFFF><i>此乃终局之时众生皆可交游之谱系。</i></color>
+<color=#FFFFFF>有司选择</color>
+<color=#FFFFFF>语音闲叙</color>
+<color=#FFFFFF>玩者案卷</color>
+<color=#FFFFFF>命中记录</color>
+<color=#FFFFFF>弹道调校</color>
+<color=#FFFFFF>命中判定记录</color>
+<color=#FFFFFF><size=12>新造之命中录将自右方浮现</size></color>
+<color=#FFFFFF>整装待发阶段</color>
+<color=#FFFFFF>异物-壹伍零柒</color>

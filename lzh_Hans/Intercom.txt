@@ -1,0 +1,10 @@
+<color=#FFFFFF>✔ 严阵以待</color>
+<color=#FFFFFF> 司号广谕中...\n余晖寸息: {0}</color>
+<color=#FFFFFF> 司号广谕中...\n越轨（BYPASS）模式</color>
+<color=#FFFFFF>🔃 枢机重演中\n{0}</color>
+<color=#FFFFFF> 分站掌事执掌中</color>
+<color=#FFFFFF>身处司号之所</color>
+<color=#FFFFFF> 尔已被掌事禁言夺声</color>
+<color=#FFFFFF>❔ 未知虚实</color>
+<color=#FFFFFF>✔ 且请按捺静候...</color>
+

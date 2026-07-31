@@ -1,0 +1,17 @@
+<color=#FFFFFF>储备电力</color>
+<color=#FFFFFF>阅历</color>
+<color=#FFFFFF>监视法眼 在线</color>
+<color=#FFFFFF>击 [key] 键以展舆图</color>
+<color=#FFFFFF>得阅历:</color>
+<color=#FFFFFF>襄助</color>
+<color=#E08B4A> 诛 丁等囚徒</color>
+<color=#6BBF59> 诛 混沌乱党</color>
+<color=#5B9BD5> 诛 九尾之狐</color>
+<color=#D9B44A>诛 博学士</color>
+<color=#E8413A> 诛 异物</color>
+<color=#FFFFFF>禁闭门数: [LOCKED_NUM] <size=25>右击悉数洞开</size></color>
+<color=#FFFFFF>凡庸交互</color>
+<color=#FFFFFF>尔受袭矣！</color>
+<color=#FFFFFF>司电之机已识于舆图</color>
+<color=#FFFFFF>诫</color>
+<color=#5B9BD5> 异物{0}九尾之狐及警卫{1}博学士{2}丁等囚徒{3}混沌乱党{4}</color>

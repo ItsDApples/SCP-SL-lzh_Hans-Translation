@@ -1,0 +1,6 @@
+<color=#FFFFFF>示本营复生所余时刻</color>
+<color=#FFFFFF>临复生时则流光闪烁</color>
+<color=#FFFFFF>示本营再获复生之机所需之威望</color>
+<color=#FFFFFF>每获新机，必多耗威望</color>
+<color=#FFFFFF>示本营今所余复生之机</color>
+<color=#FFFFFF>若两军皆无复生之机，则启「终焉条约」</color>

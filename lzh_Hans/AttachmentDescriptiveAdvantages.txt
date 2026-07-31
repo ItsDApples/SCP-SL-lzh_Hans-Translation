@@ -1,0 +1,5 @@
+<color=#FFFFFF>烛火照明</color>
+<color=#FFFFFF>弹药筹策</color>
+<color=#FFFFFF>隐匿火芒</color>
+<color=#FFFFFF>夜视窥镜</color>
+<color=#FFFFFF>倾泻散弹</color>

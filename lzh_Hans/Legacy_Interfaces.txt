@@ -1,0 +1,19 @@
+<color=#FFFFFF>可下达令箭</color>
+<color=#FFFFFF>听凭其调遣</color>
+<color=#FFFFFF>同僚职级</color>
+<color=#E08B4A> 丁等囚徒流亡数</color>
+<color=#D9B44A>博学士苟全数</color>
+<color=#E8413A> 异物戮世数</color>
+<color=#E8413A> 归位封印异物数</color>
+<color=#FFFFFF>太初地火核弹</color>
+<color=#FFFFFF>已然引爆</color>
+<color=#FFFFFF>尚未启运</color>
+<color=#FFFFFF>次轮博弈将在 [time] 秒后重演</color>
+<color=#FFFFFF>神异之能</color>
+<color=#FFFFFF>开辟虚空渗穴</color>
+<color=#FFFFFF>遁入虚空渗穴</color>
+<color=#FFFFFF>尔魂归长河</color>
+<color=#FFFFFF>索命之徒乃</color>
+<color=#FFFFFF>所御天命</color>
+<color=#FFFFFF>御身被动之能</color>
+(已隐匿)

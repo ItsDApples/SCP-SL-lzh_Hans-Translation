@@ -1,0 +1,8 @@
+<color=#FFFFFF>局戏游玩</color>
+<color=#C0C6CD> 兵械火铳</color>
+<color=#FFFFFF>步履移形</color>
+<color=#FFFFFF>按键枢机</color>
+<color=#FFFFFF>修辞交流</color>
+<color=#FFFFFF>宗社系统</color>
+<color=#FFFFFF>解离结合</color>
+<color=#E8413A> 异物-零柒玖</color>

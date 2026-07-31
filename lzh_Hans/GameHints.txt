@@ -1,0 +1,6 @@
+<color=#FF0000FF>拒纳凭准</color>
+<size=110%><color=#FF9F1CFF> <b>已臻执拿</b> </color></size>\n<color=#FF9F1CFF><b>〔 <color=#1AD9FFFF>硝药弹丸已臻执拿之上限</color>｜<color=#AC9CFFFF><lowercase>[type]</lowercase></color>｜<color=#FFA9FFFF>至多可执拿 [max_type_count] 发</color> 〕</color></b>
+<size=110%><color=#FF3B3BFF> <b>无可执拿</b> </color></size>\n<color=#FF3B3BFF><b>〔 <color=#1AD9FFFF>硝药弹丸已达执拿之上限</color>｜<color=#AC9CFFFF>[type]</color>｜<color=#FFA9FFFF>共 [max_type_count] 发</color> 〕</color></b>
+<size=110%><color=#FF9F1CFF> <b>已臻执拿</b> </color></size>\n<color=#FF9F1CFF><b>〔 <color=#1AD9FFFF>该器物已臻执拿之上限</color>｜<color=#AC9CFFFF>[type]</color>｜<color=#FFA9FFFF>至多可执拿 [max_type_count] 件</color> 〕</color></b>
+<size=110%><color=#FF3B3BFF> <b>无可执拿</b> </color></size>\n<color=#FF3B3BFF><b>〔 <color=#1AD9FFFF>该器物已达执拿之上限</color>｜<color=#AC9CFFFF>[type]</color>｜<color=#FFA9FFFF>至多 [max_type_count] 个</color> 〕</color></b>
+<size=110%><color=#FF3B3BFF> <b>行囊已满</b> </color></size>\n<color=#FF3B3BFF><b>〔 <color=#FFA9FFFF>尔至多可携行 [max_item_count] 件器物</color> 〕</color></b>
